@@ -1,5 +1,5 @@
 step 1: ...
-step 2: ... a hot fix-1 is a really bad update
+step 2: ... a hot fix-1 is a quite bad update
 step 3: ...
 step 4: unstaging a staged file
 step 5: master instead of branch
