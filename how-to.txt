@@ -5,4 +5,5 @@ step 4: unstaging a staged file
 step 5: master instead of branch
 step 6: work on issue201
 step 7: carry on issue201 after hotfixing the master
+setp 8: an error in the step outline
 
